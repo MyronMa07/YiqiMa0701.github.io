@@ -26,22 +26,25 @@ portrait_url: /assets/images/photos/avatar.jpg
 # portrait_caption: >-
 #   (可选) 照片说明，留空或注释掉即可。
 
-# 下面两节我们下一步再一起完善
 education:
-  - name: University College London (UCL)
-    logo: /assets/images/badges/ucl.png   # 以后可以放校徽图像
-    position: MSc Ecology, Climate Change & Health
-    date: Sep. 2024 – Present
-
-  - name: University of Liverpool
-    logo: /assets/images/badges/liverpool.png
-    position: MSc Data Science & Statistics (transfer, not completed)
-    date: 2023 – 2024
+  - name: University College London
+    logo: /assets/images/badges/ucl.png
+    position: MSc Ecology, Climate Change and Health
+    date: Sep. 2024 – Sep. 2025 (expected)
 
   - name: University of Warwick
     logo: /assets/images/badges/warwick.png
-    position: BSc Applied Mathematics
-    date: Sep. 2019 – Jun. 2022
+    position: MSc Statistics
+    date: Oct. 2022 – Feb. 2024
 
+  - name: University of Liverpool
+    logo: /assets/images/badges/liverpool.png
+    position: BSc Applied Mathematics
+    date: Sep. 2020 – Jul. 2022
+
+  - name: Xi’an Jiaotong-Liverpool University
+    logo: /assets/images/badges/xjtlu.png
+    position: BSc Applied Mathematics
+    date: Sep. 2017 – Jul. 2020
 
 awards: []
