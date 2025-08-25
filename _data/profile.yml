@@ -16,9 +16,18 @@ twitter: ""           # 没有就留空（不要加 @）
 short_bio_text_justify: true
 short_bio: >-
   <p>
-  I am an MSc student at UCL focusing on ecology, climate change, and health. 
-  My work integrates biodiversity monitoring (e.g., BBS) with reanalysis climate data (ERA5),
-  using GLMM/GAM frameworks to study how extreme heat impacts host bird populations and recovery dynamics.
+  I am an interdisciplinary researcher with training across mathematics, statistics, and ecology.  
+  My academic journey began with a BSc in Applied Mathematics (Xi’an Jiaotong-Liverpool University & University of Liverpool), followed by an MSc in Statistics at the University of Warwick, and is now continuing with an MSc in *Ecology, Climate Change and Health* at University College London.  
+  Through this progression, I have developed expertise in quantitative modelling and statistical computing, with applications spanning ecology, climate change, and global health. My projects range from applying GLMMs and GAMs to biodiversity monitoring data, to policy-oriented reviews on climate–health interactions.  
+  
+  I am broadly interested in how quantitative methods can inform pressing environmental and health challenges, with particular focus on:  
+  - biodiversity responses to climate extremes,  
+  - statistical ecology and ecological modelling,  
+  - One Health perspectives on climate and infectious disease risks,  
+  - and data-driven decision support for conservation and public health policy.  
+  
+  My long-term goal is to integrate advanced statistical modelling with ecological and health sciences, contributing to interdisciplinary solutions for sustainability and planetary health.
+
   </p>
 
 # 头像（请把头像文件上传到 /assets/images/photos/，命名为 avatar.jpg）
