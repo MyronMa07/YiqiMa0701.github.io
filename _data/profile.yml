@@ -1,5 +1,5 @@
 primary_name: "Yiqi Ma"
-secondary_name: ""
+secondary_name: "Myron"
 navbar_name: "Yiqi Ma"
 
 positions:
@@ -7,50 +7,41 @@ positions:
 
 email: "ucbtmaj@ucl.ac.uk"
 cv_link: "/assets/cv/CV-Yiqi.Ma.pdf"
-#gscholar: ""          # 以后填你的 Google Scholar ID（可留空）
+gscholar: ""          # Google Scholar ID（可留空）
 github: "YiqiMa0701"
-#twitter: ""           # 没有就留空（不要加 @）
-linkedin: "Myron Ma"
-ins:"myronma.log"
-# orcid: ""           # 有的话填 ORCID
+# twitter: ""         # 可留空
+# linkedin: ""        # 建议填ID或完整URL，暂时留空避免解析问题
+# instagram: ""       # 如果要放 ins，请用 instagram 键而不是 ins
 
 short_bio_text_justify: true
 short_bio: >-
-  <p>
-  ## About Me
-  Hi, I’m Yiqi 👋  
-  I have an academic journey that moves across mathematics, statistics, and ecology, and I enjoy using data to understand how nature and health are connected.  
-  I studied Applied Mathematics in Xi’an and Liverpool, trained in Statistics at Warwick, and I’m now pursuing an MSc in *Ecology, Climate Change and Health* at UCL. Along the way I’ve worked on projects such as modelling biodiversity responses to extreme heat, exploring climate–health interactions, and building small tools for data analysis.  
-  I’m especially interested in how numbers can tell stories—about bird populations, ecosystems, or human health—and how those insights can help us make better decisions for both people and the planet.  
-  Outside research, I love skiing ⛷️, photography 📷, and creating music 🎶.
+  <p>Hi, I’m Yiqi 👋 I move across mathematics, statistics, and ecology, and I enjoy using data to understand how nature and health are connected.</p>
+  <p>I studied Applied Mathematics in Xi’an and Liverpool, trained in Statistics at Warwick, and I’m now pursuing an MSc in <em>Ecology, Climate Change and Health</em> at UCL. I’ve worked on projects such as modelling biodiversity responses to extreme heat, exploring climate–health interactions, and building small tools for data analysis.</p>
+  <p>I’m especially interested in how numbers can tell stories—about bird populations, ecosystems, or human health—and how those insights can help us make better decisions for both people and the planet. Outside research, I love skiing ⛷️, photography 📷, and creating music 🎶.</p>
 
-  </p>
-
-# 头像（请把头像文件上传到 /assets/images/photos/，命名为 avatar.jpg）
 portrait_url: /assets/images/photos/avatar.jpg
-# portrait_caption: >-
-#   (可选) 照片说明，留空或注释掉即可。
+# portrait_caption: ""
 
 education:
   - name: University College London
     logo: /assets/images/badges/ucl.png
     position: MSc Ecology, Climate Change and Health
-    date: Sep. 2024 – Sep. 2025
+    date: Sep. 2024 - Sep. 2025
 
   - name: University of Warwick
     logo: /assets/images/badges/warwick.png
     position: MSc Statistics
-    date: Oct. 2022 – Feb. 2024
+    date: Oct. 2022 - Feb. 2024
 
   - name: University of Liverpool
     logo: /assets/images/badges/liverpool.png
     position: BSc Applied Mathematics
-    date: Sep. 2020 – Jul. 2022
+    date: Sep. 2020 - Jul. 2022
 
   - name: Xi’an Jiaotong-Liverpool University
-    logo: /assets/images/badges/xjtlu.jpg
+    logo: /assets/images/badges/xjtlu.png
     position: BSc Applied Mathematics
-    date: Sep. 2017 – Jul. 2020
+    date: Sep. 2017 - Jul. 2020
 
 awards:
   - name: GRE 337 (Q170, V163, AW4.0)
@@ -63,14 +54,12 @@ awards:
 experience:
   - name: SkyReach Environmental Technology Co., Ltd.
     position: UAV Operations Intern
-    date: Mar. 2024 – Jun. 2024
+    date: Mar. 2024 - Jun. 2024
 
   - name: JD.Com, Inc.
     position: Major Search User Behavior Analysis Intern
-    date: Jan. 2023 – Mar. 2023
+    date: Jan. 2023 - Mar. 2023
 
   - name: Guizhou Transport Science Research Institute Co., Ltd.
     position: Data Analyst Intern
-    date: May. 2022 – Aug. 2022
-
-
+    date: May. 2022 - Aug. 2022
