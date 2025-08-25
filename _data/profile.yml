@@ -55,3 +55,19 @@ awards:
   - name: American Mathematical Contest in Modeling (MCM), Successful Participant
     date: 2020
 
+experience:
+  - name: SkyReach Environmental Technology Co., Ltd.
+    position: UAV Operations Intern
+    date: Mar. 2024 – Jun. 2024
+
+  - name: JD.Com, Inc.
+    logo: /assets/images/badges/jd.png
+    position: Major Search User Behavior Analysis Intern
+    date: Jan. 2023 – Mar. 2023
+
+  - name: Guizhou Transport Science Research Institute Co., Ltd.
+    logo: /assets/images/badges/guizhou.png
+    position: Data Analyst Intern
+    date: May. 2022 – Aug. 2022
+
+
