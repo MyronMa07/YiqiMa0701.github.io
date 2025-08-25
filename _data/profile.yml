@@ -7,10 +7,11 @@ positions:
 
 email: "ucbtmaj@ucl.ac.uk"
 cv_link: "/assets/cv/CV-Yiqi.Ma.pdf"
-gscholar: ""          # 以后填你的 Google Scholar ID（可留空）
-github: "MyronMa07"
-twitter: ""           # 没有就留空（不要加 @）
-# linkedin: ""        # 有的话填你的 LinkedIn ID
+#gscholar: ""          # 以后填你的 Google Scholar ID（可留空）
+github: "YiqiMa0701"
+#twitter: ""           # 没有就留空（不要加 @）
+linkedin: "Myron Ma"
+ins:"myronma.log"
 # orcid: ""           # 有的话填 ORCID
 
 short_bio_text_justify: true
@@ -39,7 +40,7 @@ education:
   - name: University College London
     logo: /assets/images/badges/ucl.png
     position: MSc Ecology, Climate Change and Health
-    date: Sep. 2024 – Sep. 2025 (expected)
+    date: Sep. 2024 – Sep. 2025
 
   - name: University of Warwick
     logo: /assets/images/badges/warwick.png
