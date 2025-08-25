@@ -47,4 +47,11 @@ education:
     position: BSc Applied Mathematics
     date: Sep. 2017 – Jul. 2020
 
-awards: []
+awards:
+  - name: GRE 337 (Q170, V163, AW4.0)
+    date: 2024
+  - name: Light Civil Unmanned Aircraft Safety Certification (CAAC)
+    date: 2024
+  - name: American Mathematical Contest in Modeling (MCM), Successful Participant
+    date: 2020
+
