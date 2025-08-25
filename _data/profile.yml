@@ -28,9 +28,20 @@ portrait_url: /assets/images/photos/avatar.jpg
 
 # 下面两节我们下一步再一起完善
 education:
-  - name: UCL
-    logo: 
+  - name: University College London (UCL)
+    logo: /assets/images/badges/ucl.png   # 以后可以放校徽图像
     position: MSc Ecology, Climate Change & Health
-    date: ""          # 年份不着急，下一步再补
+    date: Sep. 2024 – Present
+
+  - name: University of Liverpool
+    logo: /assets/images/badges/liverpool.png
+    position: MSc Data Science & Statistics (transfer, not completed)
+    date: 2023 – 2024
+
+  - name: University of Warwick
+    logo: /assets/images/badges/warwick.png
+    position: BSc Applied Mathematics
+    date: Sep. 2019 – Jun. 2022
+
 
 awards: []
