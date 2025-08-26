@@ -5,9 +5,9 @@ navbar_name: "Yiqi Ma"
 positions:
   - name: MSc Ecology, Climate Change & Health @ UCL
 
-email: "ucbtmaj@ucl.ac.uk"
+email: !!str ucbtmaj@ucl.ac.uk
 cv_link: "/assets/cv/CV-Yiqi.Ma.pdf"
-gscholar: ""          # Google Scholar ID（可留空）
+# gscholar: ""          # Google Scholar ID（可留空）
 github: "YiqiMa0701"
 # twitter: ""         # 可留空
 # linkedin: ""        # 建议填ID或完整URL，暂时留空避免解析问题
